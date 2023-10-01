@@ -1,0 +1,9 @@
+.footer {
+  display: grid;
+  padding-block: 50px;
+  padding-left: 300px;
+}
+.footer__title {
+  color: #545454;
+  font-family: "Inter 400";
+}
