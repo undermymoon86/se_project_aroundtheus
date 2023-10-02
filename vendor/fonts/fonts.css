@@ -1,20 +1,16 @@
 @font-face {
-  font-family: "Inter 500";
+  font-family: "Inter", Arial, sans-serif;
   font-weight: 500;
-  font-size: 42px;
-  line-height: 48px;
-  src: url(../fonts/Inter-Regular.woff);
+  src: url(../fonts/Inter-Medium.woff);
 }
 
 @font-face {
-  font-family: "Inter 900";
+  font-family: "Inter", Arial, sans-serif;
   font-weight: 900;
-  font-size: 24px;
-  src: url(../fonts/Inter-Medium.woff2);
+  src: url(../fonts/Inter-Black.woff);
 }
 @font-face {
-  font-family: "Inter 400";
+  font-family: "Inter", Arial, sans-serif;
   font-weight: 400;
-  font-size: 18px;
   src: url(../fonts/Inter-Regular.woff);
 }
