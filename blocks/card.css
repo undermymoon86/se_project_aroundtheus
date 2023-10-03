@@ -54,6 +54,6 @@
   border: 0;
 }
 .card__like-button:hover {
-  background: url(../Images/Vector\ heart\ hover.svg);
+  background: url(../Images/Vector\ heart\ hover.svg) center no-repeat;
   cursor: pointer;
 }
