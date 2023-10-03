@@ -44,7 +44,7 @@
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
-  font-family: "Inter", Arial, sans-serif;
+  font-family: "Inter";
 }
 .profile__description {
   font-size: 18px;
@@ -56,7 +56,7 @@
   white-space: nowrap;
   max-width: 373px;
   overflow: hidden;
-  font-family: "Inter", Arial, sans-serif;
+  font-family: "Inter";
 }
 .profile__image {
   height: 120px;
