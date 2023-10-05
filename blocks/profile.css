@@ -76,6 +76,7 @@
   .profile__info {
     text-align: center;
     gap: 13px;
+    grid-template-columns: minmax(auto, 196px) auto;
   }
   .profile__image {
     margin: 2px 0 25px;
@@ -86,6 +87,7 @@
   }
   .profile__description {
     font-size: 16px;
+    margin-bottom: 10px;
   }
   .profile__add-button {
     background: url(../Images/Rectangle.svg) center no-repeat;
@@ -94,7 +96,7 @@
     max-width: 282px;
     border: 2px solid #ffffff;
     border-radius: 2px;
-    margin-left: auto;
+    margin-left: 0;
   }
   .profile__edit-button {
     width: 18px;
