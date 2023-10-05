@@ -22,7 +22,7 @@
   max-width: 882px;
   width: 100%;
 }
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 680px) {
   .page__section {
     margin: auto;
     align-self: center;
