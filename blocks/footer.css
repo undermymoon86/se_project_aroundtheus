@@ -1,17 +1,24 @@
 .footer {
-  padding-block: 50px;
   max-width: 880px;
   margin-left: auto;
   margin-right: auto;
+  width: 100%;
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-bottom: 50px;
 }
+
 .footer__title {
   color: #545454;
   font-family: "Inter", Arial, sans-serif;
   margin: 0;
 }
 
-@media screen and (max-width: 620px) {
+@media screen and (max-width: 480px) {
   .footer {
     width: 100%;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-bottom: 50px;
   }
 }

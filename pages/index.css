@@ -5,3 +5,16 @@
 @import url("../blocks/profile.css");
 @import url("../blocks/footer.css");
 @import url("../blocks/card.css");
+
+.content {
+  margin: 0 auto;
+  max-width: 882px;
+  width: 100%;
+}
+
+@media screen and (max-width: 680px) {
+  .content {
+    margin-left: 10px;
+    width: 100%;
+  }
+}
