@@ -1,6 +1,11 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="Edit Button">
+<rect width="24" height="24" fill="#E5E5E5"/>
+<g id="UI KIT">
+<rect width="567" height="1215" transform="translate(-362 -891)" fill="#F7F7F7"/>
+<rect id="Rectangle 1" x="-362" y="-322" width="567" height="452" fill="black"/>
+<g id="Edit Button" opacity="0.6">
 <rect id="Rectangle" x="0.5" y="0.5" width="23" height="23" stroke="white"/>
 <path id="Vector" d="M17 8.32827L9.60377 15.7666L8.28302 14.4194L15.6604 7L17 8.32827ZM7 17L8.96226 16.4118L7.58491 15.0835L7 17Z" fill="white"/>
+</g>
 </g>
 </svg>
