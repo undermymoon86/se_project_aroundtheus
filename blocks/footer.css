@@ -9,15 +9,30 @@
 
 .footer__title {
   color: #545454;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
   font-family: "Inter", Arial, sans-serif;
   margin: 0;
 }
 
 @media screen and (max-width: 480px) {
   .footer {
-    width: 100%;
     max-width: 282px;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    height: 14px;
+    flex-shrink: 0;
+    padding-top: 48px;
+    padding-bottom: 36px;
+  }
+  .footer__title {
+    color: #545454;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    font-family: "Inter", Arial, sans-serif;
+    margin: 0;
+    padding-bottom: 36px;
   }
 }
