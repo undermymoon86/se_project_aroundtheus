@@ -24,10 +24,6 @@
 }
 @media screen and (max-width: 680px) {
   .page__section {
-    margin: auto;
     align-self: center;
-  }
-  .page__content {
-    width: 100%;
   }
 }
