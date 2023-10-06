@@ -4,4 +4,4 @@ Around The U.S. is a page to showcase all the many places to be discovered. You 
 
 In this page we are using basic html and css.
 
-https://github.com/undermymoon86/se_project_aroundtheus
+https://undermymoon86.github.io/se_project_aroundtheus/

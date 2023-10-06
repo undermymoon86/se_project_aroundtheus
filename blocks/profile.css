@@ -20,8 +20,6 @@
   border-radius: 2px;
 }
 .profile__edit-button:hover {
-  background: transparent url(../Images/Edit\ Button\ -\ hover.svg) center
-    no-repeat;
   cursor: pointer;
   opacity: 0.6;
 }
@@ -34,9 +32,6 @@
   border-radius: 2px;
 }
 .profile__add-button:hover {
-  background: transparent url(../Images/Add-Button-hover.svg) center no-repeat;
-  background-image: transparent url(../Images/Vector-plus.svg) center no-repeat;
-  border: 2px solid #fff;
   cursor: pointer;
   opacity: 0.6;
 }
@@ -47,8 +42,6 @@
   grid-area: title;
   margin: 0;
   font-style: normal;
-  text-overflow: ellipsis;
-  white-space: nowrap;
   font-family: "Inter", Arial, sans-serif;
 }
 .profile__description {
